@@ -42,6 +42,7 @@ We use the **LRFM model** (Length, Recency, Frequency, and Monetary) to define c
 ---
 
 ## 📁 File Structure
+```
 customer-segmentation/
 │
 ├── data/
@@ -61,12 +62,16 @@ customer-segmentation/
 │ ├── atrisk_treatment.csv
 │ └── atrisk_control.csv
 │
-├── utils/
-│ └── ahp_weighting.py
+├── dashboards/
+│ └── EbleCoachSegmentationDashboard.pbix
+├── images/
+│ ├── dashboard.png
+│ ├── trend_chart.png
+│ └── semantics.png
 │
 ├── README.md
 └── requirements.txt
-
+```
 
 ---
 
