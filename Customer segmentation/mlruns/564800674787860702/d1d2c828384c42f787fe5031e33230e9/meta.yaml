@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/lynn.oloo/Documents/Customer%20segmentation/mlruns/564800674787860702/d1d2c828384c42f787fe5031e33230e9/artifacts
+end_time: 1742538139921
+entry_point_name: ''
+experiment_id: '564800674787860702'
+lifecycle_stage: active
+run_id: d1d2c828384c42f787fe5031e33230e9
+run_name: Data Cleaning
+run_uuid: d1d2c828384c42f787fe5031e33230e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742538134770
+status: 3
+tags: []
+user_id: Lynn.Oloo
