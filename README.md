@@ -86,19 +86,19 @@ The results of the customer segmentation were presented in a Power BI dashboard,
 1. Customer Segmentation Dashboard
 
 This dashboard provides an overview of customer clusters based on Recency, Frequency, and Monetary values, along with detailed CLV scores.
-![Your Image Description](images/image_name.png)
+![Customer Segmentation Dashboard](https://github.com/Lynn-rose/Eble-Coach-Services/blob/main/images/dashboard%20overview.png)
 
 
 2. Monthly Segment Trend
 
 Tracks how customer segment distributions change over time for better engagement strategy planning.
-![Your Image Description](images/image_name.png)
+![Monthly Segment Trend](https://github.com/Lynn-rose/Eble-Coach-Services/blob/main/images/trend.png)
 
 
 3. Semantics and Segment Definitions
 
 Definitions of key RFM metrics and the behavioral traits used to define each segment.
-![Your Image Description](images/image_name.png)
+![Semantics and Segment Definitions](https://github.com/Lynn-rose/Eble-Coach-Services/blob/main/images/semantics.png)
 
 
 ---
